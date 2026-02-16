@@ -1,9 +1,0 @@
-julien :
-
-- analyse bien
-- contextualisé -> dou vient le data set, qui a fait les donnée, expliqer le B et le M (l'enjeux, parler de mes données)
-- change ce que je vais montrer (montrer plus de graph)
-
--analuyse visuielle, scatter plot,
-
-- pas assez tenté des trucs (h0 H1)
